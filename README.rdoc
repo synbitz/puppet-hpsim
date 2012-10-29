@@ -1,0 +1,5 @@
+= puppet-hpsim module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-hpsim/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-hpsim/]
+
+This is the hpsim module.
